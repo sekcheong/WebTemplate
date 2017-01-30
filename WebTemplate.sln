@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTemplate", "WebTemplate.csproj", "{07850A9D-61AD-48A2-846E-BA4C4161FDD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTemplate.Tests", "WebTemplate.Tests\WebTemplate.Tests.csproj", "{672DED0A-5EDF-48C2-9458-B1E182C33E4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTemplate.Tests", "Tests\WebTemplate.Tests.csproj", "{672DED0A-5EDF-48C2-9458-B1E182C33E4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
